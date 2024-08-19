@@ -1,1 +1,1 @@
-# ListrikAnalayzer
+# ListrikAnalyzer
